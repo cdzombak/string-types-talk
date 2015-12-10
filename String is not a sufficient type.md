@@ -1,7 +1,7 @@
 ## [fit] `String`
 ## [fit] is not a sufficient type
 
-### …how type systems can help you make better software
+### (how using your type system can help you make better software)
 
 ---
 
