@@ -334,7 +334,7 @@ let sql: SQLString = "SELECT FROM `users` WHERE `name` = '" + username + "';"
 
 ^ Then, hopefully, you realized: it’s actually not busy work at all, and it’s not hard. We were doing the same calculations either way, but writing out units like this helps us keep track of our work and catch mistakes.
 
-^ What I am psoposing here is _exactly the same_. In fact…
+^ What I am proposing here is _exactly the same_. In fact…
 
 ---
 
