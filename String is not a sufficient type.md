@@ -1,10 +1,3 @@
-^ TODO: proofread/sanity check (in Deckset)
-
-^ TODO: Check apostrophe/quote styles
-
-^ TODO: Check for consistent formatting of code: type names, etc,
-including in notes
-
 ## [fit] `String`
 ## [fit] is not a sufficient type
 
